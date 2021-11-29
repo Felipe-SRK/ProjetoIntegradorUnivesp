@@ -1,0 +1,39 @@
+/*
+Theme Name: Betheme
+Theme URI: https://themes.muffingroup.com/betheme/
+Author: Muffin group
+Author URI: https://muffingroup.com/
+Description: The biggest WordPress Theme ever
+License: Themeforest Split Licence
+License URI: https://themeforest.net/licenses/standard
+Text Domain: betheme
+Version: 21.4.3
+
+All css files are placed in /css/ folder
+*/
+
+
+.marca_registrada{
+	text-align: justify;
+}
+
+.variedade_exclusiva{
+	text-align: justify;
+}
+
+.unidos{
+	text-align: justify;
+}
+
+
+.galeria_logos{
+	background-image:url("https://appc.coop.br/wp-content/themes/betheme/wp-content/uploads/2019/11/home_steakhouse_bonappetit_bg2.jpg");
+}
+
+.heading-with-border{
+	border: none!important;
+}
+
+span.wpcf7-list-item {
+	padding-right: 20px;
+}
